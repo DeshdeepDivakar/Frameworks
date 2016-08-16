@@ -1,4 +1,4 @@
-# Fameworks
+# Frameworks
 
 Here is a quick example of Page Object Model using Page Factories.
 
