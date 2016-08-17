@@ -21,3 +21,4 @@ C:\Stud\demoframework\demoUISpecTests\bin\Debug\xunit.core.xml
 C:\Stud\demoframework\demoUISpecTests\obj\Debug\demoUISpecTests.csprojResolveAssemblyReference.cache
 C:\Stud\demoframework\demoUISpecTests\obj\Debug\demoUISpecTests.dll
 C:\Stud\demoframework\demoUISpecTests\obj\Debug\demoUISpecTests.pdb
+C:\Stud\demoframework\demoUISpecTests\bin\Debug\RelevantCodes.ExtentReports.dll

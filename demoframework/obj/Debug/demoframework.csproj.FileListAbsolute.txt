@@ -6,3 +6,4 @@ C:\Stud\demoframework\demoframework\bin\Debug\WebDriver.xml
 C:\Stud\demoframework\demoframework\bin\Debug\WebDriver.Support.xml
 C:\Stud\demoframework\demoframework\obj\Debug\demoframework.dll
 C:\Stud\demoframework\demoframework\obj\Debug\demoframework.pdb
+C:\Stud\demoframework\demoframework\obj\Debug\demoframework.csprojResolveAssemblyReference.cache
