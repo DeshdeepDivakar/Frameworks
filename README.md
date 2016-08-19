@@ -11,6 +11,8 @@ It has a Static class which act as an library named Initialiser.cs. Additionally
 On the other hand demoUISpectests - is the project with your page models/page definitions, feature/scenario file and step definitions.
 
 Another class BeforeAfterSteps.cs sits at the solution level to abstract the Before and After scenario/feature steps.
+Additionally, this also caters for basic implementation of Extent Reports library. Find more details in Stepdefinition file. 
+
 
 
  
